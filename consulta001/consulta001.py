@@ -1,3 +1,4 @@
+#ingrese sus datos y se presentaran en pantalla 
 nombre_del_usuario = input("Ingrese su nombre: ")
 print("Hola,",nombre_del_usuario,",ingrese los datos solicitado")
 apellido_del_usuario = input("Ingrese su apellido: ")
